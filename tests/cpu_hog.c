@@ -2,6 +2,7 @@
  * cpu_hog.c - CPU-bound workload for scheduler experiments.
  *
  * Usage:
+ 
  *   /cpu_hog [seconds]
  *
  * The program burns CPU and prints progress once per second so students
