@@ -67,7 +67,7 @@ sudo ./engine stop beta
 ---
 
 ### Kernel logs
-sudo dmesg | tail  
+sudo dmesg | grep -i monitor 
 
 ---
 
